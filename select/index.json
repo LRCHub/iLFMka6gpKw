@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "好きと言われた日",
+  "base_artist": "EGOIST",
+  "createdAt": "2026-03-10T14:29:35.866091Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Suki To Iwareta Hi [好きと言われた日]",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/01_Suki_To_Iwareta_Hi_[好きと言われた日]_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "好きと言われた日 (from BEST AL\"ALTER EGO\")",
+      "artist": "Egoist",
+      "has_synced": true,
+      "path": "select/02_好きと言われた日_(from_BEST_AL_ALTER_EGO_)_Egoist.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "好きと言われた日",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/03_好きと言われた日_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "好きと言われた日",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/04_好きと言われた日_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "好きと言われた日",
+      "artist": "ryo (supercell), chelly",
+      "has_synced": true,
+      "path": "select/05_好きと言われた日_ryo_(supercell),_chelly.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "好きと言われた日",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/pl_01_好きと言われた日_EGOIST.txt"
+    }
+  ]
+}
